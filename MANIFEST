@@ -1,0 +1,21 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+lib/Template/Recall.pm
+lib/Template/Recall/Base.pm
+t/01tmpl.html
+t/02tmpl.html
+t/03atmpl.html
+t/03tmpl.html
+t/04tmpl.TXT
+t/04tmpl.xml
+t/no-delimiters.t
+t/sectioned-file.t
+t/simple-usage.t
+t/switch-flavors.t
+t/Template-Recall.t
+t/template-from-str.t
+t/trim.t
+t/assemble.t
+META.yml                                 Module meta-data (added by MakeMaker)
